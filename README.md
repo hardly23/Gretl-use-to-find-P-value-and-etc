@@ -1,6 +1,4 @@
-![Python Logo](https://user-images.githubusercontent.com/76168112/123503173-21ca8380-d606-11eb-8eeb-8eb166c12988.jpg)
-
-Format: ![Alt Text](url)
+### Python 
 ## statistics Analayics
 
 ```sh
